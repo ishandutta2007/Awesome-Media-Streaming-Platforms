@@ -101,7 +101,7 @@ A comprehensive breakdown of leading subscription video on-demand (SVOD) and com
 
 ## 🔓 Open-Source GitHub Projects (Ranked by Stars)
 
-Every repository below is linked with its real-time GitHub stargazer badge and sorted in **descending order by GitHub Stars_Count**.
+Every repository below is linked with its real-time GitHub stargazer badge and sorted in **descending order by GitHub_Stars_Count**.
 
 ### 1. [Jellyfin](https://github.com/jellyfin/jellyfin) [![GitHub_Stars](https://img.shields.io/github/stars/jellyfin/jellyfin?style=social&color=white)](https://github.com/jellyfin/jellyfin/stargazers)
 - 🌟 **Stars**: ~58,000+ | ⚖️ **License**: GPL-2.0 | 💻 **Tech**: C# / .NET / Vue.js
