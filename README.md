@@ -30,45 +30,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global video streaming market is estimated at approximately **$160B – $195B** in baseline valuations and projected to expand toward **$190B – $300B+** by 2026 with a compound annual growth rate (CAGR) between 15% and 20%. The industry exhibits a **moderately concentrated, winner-take-most structure** among the top conglomerate tier (dominated by multi-trillion/hundred-billion-dollar tech and media giants competing for global scale, live sports, and tentpole content), while coexisting with fragmented niche ecosystems in specialized animation, live TV tools, and self-hosted personal media stacks.
 
 ## SaaS/Hosted Platforms
 
-
-
-| Product | Description | Pricing | Free Tier Limit |
-
-| :--- | :--- | :--- | :--- |
-
-| **[Netflix](https://www.netflix.com/)** | The dominant commercial streaming service with original content and global catalog. | **Standard with ads**: $7.99/month. **Standard**: $17.99/month. **Premium**: $24.99/month (US pricing) . | **No free tier**. 30-day trial occasionally offered in select regions. |
-
-| **[Plex](https://www.plex.tv/)** | Polished media server with streaming channels and remote access. | **Plex Pass**: $6.99/month or $69.99/year. **Lifetime Pass**: $750 (tripled from $250 on July 1, 2026) . | **Free**: Basic media server, streaming channels, local playback. Hardware transcoding and remote streaming require Plex Pass . |
-
-| **[Disney+](https://www.disneyplus.com/)** | Disney, Pixar, Marvel, Star Wars, and National Geographic content. | **With ads**: $9.99/month. **Premium**: $15.99/month or $159.99/year (US pricing) . | **No free tier**. Occasional promotional trials. |
-
-| **[Hulu](https://www.hulu.com/)** | US streaming service with next-day TV and originals. | **With ads**: $9.99/month. **No ads**: $18.99/month. **Live TV**: $82.99/month . | **30-day free trial** for new subscribers (select plans). |
-
-| **[Amazon Prime Video](https://www.primevideo.com/)** | Streaming included with Amazon Prime membership. | **Prime**: $14.99/month or $139/year (includes shipping benefits). **Standalone Video**: $8.99/month . | **30-day free trial** for Prime membership. |
-
-| **[Max (HBO)](https://www.max.com/)** | HBO, Warner Bros., and DC content. | **With ads**: $9.99/month. **Ad-free**: $16.99/month. **Ultimate**: $20.99/month . | **No free tier**. Occasional promotional trials. |
-
-| **[Paramount+](https://www.paramountplus.com/)** | CBS, MTV, Nickelodeon, and Paramount content. | **Essential**: $7.99/month. **With Showtime**: $12.99/month . | **7-day free trial** (select plans). |
-
-| **[Apple TV+](https://tv.apple.com/)** | Apple Originals with high production values. | **$9.99/month** . | **7-day free trial** for new subscribers. Free with Apple One bundles. |
-
-| **[Peacock](https://www.peacocktv.com/)** | NBCUniversal content with live sports and news. | **Premium**: $7.99/month. **Premium Plus**: $13.99/month . | **Free tier**: Limited content with ads, no live sports or next-day NBC. |
-
-| **[Crunchyroll](https://www.crunchyroll.com/)** | Anime streaming with simulcasts and manga. | **Fan**: $7.99/month. **Mega Fan**: $9.99/month. **Ultimate Fan**: $14.99/month . | **14-day free trial** for premium plans. |
-
-
+| Product | Description | Pricing | Free Tier Limit | Company Size (Revenue / Valuation) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Apple TV+](https://tv.apple.com/)** | Apple Originals with high production values. | **Standard**: $9.99/month or $99/year. | **7-day free trial** with full access to Apple Originals; 3 months free with eligible Apple device purchases. | **~$391B revenue (FY2024)** / **~$3.5T market cap** (Apple Inc.) |
+| **[Amazon Prime Video](https://www.primevideo.com/)** | Streaming included with Amazon Prime membership. | **Prime**: $14.99/month or $139/year (with shipping perks). **Standalone Video**: $8.99/month. | **30-day free trial** of Amazon Prime with complete catalog access. | **~$638B revenue (FY2024)** / **~$2.1T market cap** (Amazon.com, Inc.) |
+| **[Netflix](https://www.netflix.com/)** | The dominant commercial streaming service with original content and global catalog. | **Standard with ads**: $7.99/month. **Standard (ad-free)**: $17.99/month. **Premium**: $24.99/month. | **No free tier & no ongoing free trial** directly offered (only occasional regional promotional campaigns). | **~$39.0B revenue (FY2024)** / **~$300B+ market cap** (Netflix, Inc.) |
+| **[Disney+](https://www.disneyplus.com/)** | Disney, Pixar, Marvel, Star Wars, and National Geographic content. | **Basic (with ads)**: $9.99/month. **Premium**: $15.99/month or $159.99/year. | **No direct free tier or free trial**; access occasionally bundled via select carrier/partner promotions. | **~$91.4B revenue (FY2024)** / **~$190B market cap** (The Walt Disney Company) |
+| **[Peacock](https://www.peacocktv.com/)** | NBCUniversal content with live sports and news. | **Premium (with ads)**: $7.99/month or $79.99/year. **Premium Plus (ad-free)**: $13.99/month or $139.99/year. | **No free tier or trial for new direct subscribers** (legacy ad-supported free tier phased out for new sign-ups; available via Instacart+/carrier promos). | **~$123.7B revenue (FY2024)** / **~$135B+ market cap** (Parent Comcast Corporation) |
+| **[Hulu](https://www.hulu.com/)** | US streaming service with next-day TV and originals. | **With ads**: $9.99/month. **No ads**: $18.99/month. **Hulu + Live TV**: $82.99/month. | **30-day free trial** for on-demand plans (With ads / No ads); **3-day free trial** periodically offered for Live TV. | **Subsidiary of The Walt Disney Company** (~$91.4B rev / ~$190B market cap); valuation assessed at **$27.5B+** during Disney buyout. |
+| **[Max (HBO)](https://www.max.com/)** | HBO, Warner Bros., and DC content. | **Basic with Ads**: $9.99/month or $99.99/year. **Ad-Free**: $16.99/month or $169.99/year. **Ultimate Ad-Free**: $20.99/month or $209.99/year. | **No native direct free tier or free trial**; 7-day trials periodically available through Amazon Prime Channels or Hulu add-ons. | **~$39.3B revenue (FY2024)** / **~$22B market cap** (Warner Bros. Discovery, Inc.) |
+| **[Paramount+](https://www.paramountplus.com/)** | CBS, MTV, Nickelodeon, and Paramount content. | **Essential (with ads)**: $7.99/month or $59.99/year. **Paramount+ with SHOWTIME**: $12.99/month or $119.99/year. | **7-day free trial** on all direct subscription tiers with full catalog access before billing starts. | **~$29.2B revenue (FY2024)** / **~$7.5B market cap** (Paramount Global) |
+| **[Crunchyroll](https://www.crunchyroll.com/)** | Anime streaming with simulcasts and manga. | **Fan**: $7.99/month. **Mega Fan**: $9.99/month or $99.99/year. **Ultimate Fan**: $14.99/month. | **14-day free trial** on premium Fan and Mega Fan tiers with full catalog and simulcast access. | **Acquired for $1.175B** by Sony Group Corp (~$85B+ revenue); anchors Sony's Media Networks segment (~$3B+ rev). |
+| **[Plex](https://www.plex.tv/)** | Polished media server with streaming channels and remote access. | **Plex Pass**: $6.99/month, $69.99/year, or $750 Lifetime Pass. | **Free forever plan**: Local personal media playback, 50,000+ free on-demand titles, and 300+ FAST live channels; mobile playback limited to 1 min without activation/Plex Pass. | **Private company** (~$130M+ total venture funding raised; $40M Series C in 2024; estimated private valuation ~$200M–$400M). |
 
 ## Open-Source GitHub Projects
 
